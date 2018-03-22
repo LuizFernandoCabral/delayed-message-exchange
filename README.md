@@ -4,6 +4,6 @@ This container is built using official [rabbitmq management v3.7-albine](https:/
 
 This plugin is experimental, use at your own risk.
 
-----------------------------------------------------------
+-----------------------------------------------------------
 
 The usage is the same as the official rabbitmq container.
